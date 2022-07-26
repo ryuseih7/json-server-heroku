@@ -4,9 +4,7 @@
       "nome": "Um sonho de liberdade",
       "descricao": "Andy Dufresne é condenado a duas prisões perpétuas consecutivas pelas mortes de sua esposa e de seu amante. Porém, só Andy sabe que ele não cometeu os crimes. No presídio, durante dezenove anos, ele faz amizade com Red, sofre as brutalidades da vida na cadeia, se adapta, ajuda os carcereiros, etc.",
       "data": "1995",
-      "genero": [
-        "Drama"
-      ],
+      "genero": ["Drama"],
       "rating": 5,
       "diretor": "Frank Darabont",
       "id": 1
@@ -15,10 +13,7 @@
       "nome": "Batman: O Cavaleiro das Trevas",
       "descricao": "Com a ajuda de Jim Gordon e Harvey Dent, Batman tem mantido a ordem na cidade de Gotham. Mas um jovem e anárquico criminoso conhecido como Coringa ganha força e decide instaurar um verdadeiro caos na cidade. O justiceiro será testado psicologicamente e fisicamente como nunca fora antes em um confronto bastante pessoal. Cabe a Batman encontrar uma maneira de deter o sádico vilão antes que mais vidas sejam perdidas.",
       "data": "2008",
-      "genero": [
-        "Ação",
-        "Aventura"
-      ],
+      "genero": ["Ação", "Aventura"],
       "rating": 3,
       "diretor": "Christopher Nolan",
       "id": 2
@@ -27,9 +22,7 @@
       "nome": "12 Homens e uma Sentença",
       "descricao": "Seguindo o encerramento do caso do julgamento do assassinato cometido por um adolescente, os membros do júri devem chegar a um consenso sobre qual será o veredito. Enquanto os 12 indivíduos estão fechados em uma sala para tomar uma decisão, onze deles votam pela condenação do réu, porém um deles acredita na inocência do jovem e tenta convencer os outros a mudarem seus votos, dando início a um conflito que ameaça inviabilizar o delicado processo que vai decidir o destino do acusado.",
       "data": "1957",
-      "genero": [
-        "Drama"
-      ],
+      "genero": ["Drama"],
       "rating": 1,
       "diretor": "Sidney Lumet",
       "id": 3
